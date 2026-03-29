@@ -244,7 +244,7 @@
     "levelup": "^4.4.0",
     "lodash": "^4.17.21",
     "memoize-one": "^5.1.1",
-    "minimatch": "^3.0.5",
+    "minimatch": "^3.1.4",
     "modmeta-db": "Nexus-Mods/modmeta-db",
     "native-errors": "Nexus-Mods/node-native-errors",
     "node-7z": "Nexus-Mods/node-7z",
